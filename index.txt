@@ -1,0 +1,15 @@
+# GITHUB
+
+Aplikasi yang menyediakan jasa Version Control / Git
+Version Control = Source code management 
+
+Google Drive -> Cloud storage isinya :
+Files, Gambar, Video, dll
+
+Github -> Cloud Storage untuk source code
+
+
+# TUGAS
+
+1. Buat Repo -> Study Case, HTML + CSS
+2. Buat Repo -> Study Cade, Boostrap
